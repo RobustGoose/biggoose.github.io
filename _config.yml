@@ -55,8 +55,8 @@ jekyll-archives:
 # Category descriptions (for archive pages)
 descriptions:
 
-  - cat: 测试
-    desc: "测试博客."
+  - cat: 
+    desc: "."
 
 # Social icons and sharing options
 #
