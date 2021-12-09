@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Shangyh'Blog
-subtitle: "WW"
+subtitle: "记录磕盐和生活"
 email: yhshang@bupt.edu.com
 name: Y.H.Shang
 description: >
-  记录磕盐和生活.
+  Have a great day！
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
