@@ -76,14 +76,14 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: "查无此人"
+    username: ""
     url: ""
     desc: Follow me on Twitter
     share: false
 
   - name: Facebook
     icon: facebook
-    username: "查无此人"
+    username: ""
     url: ""
     desc: Friend me on Facebook
     share: false
