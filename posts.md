@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Posts"
+title: "记录"
 permalink: /posts/
 main_nav: true
 ---
