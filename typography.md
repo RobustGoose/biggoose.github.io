@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 字体测试
+title: 字体/功能测试
 permalink: /typography/
 main_nav: true
 ---
