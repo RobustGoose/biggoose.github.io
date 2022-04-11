@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "基础知识-铁磁性"
+date:   2022-4-11 08:43:59
+author: yh.Shang
+categories: 基础知识
+tags:	welcome
+cover:  "/assets/instacode.jpg"
+---
+
+## 铁磁性、反铁磁性、顺磁性
+物质的磁性现象存在一个临界温度，在此温度之上，铁磁性会消失而变成顺磁性，在此温度之下铁磁性才会保持。
+对于铁磁性和亚铁磁性物质，此温度被称为居里温度（虽然都称为居里温度，但二者是有差别的）；对于反铁磁性物质，此温度被称为奈尔温度。
+
+铁磁性：磁体系中相邻的两个原子磁矩趋向于平行排列。在外部磁场的作用下得而磁化后，即使外部磁场消失，依然能保持其磁化的状态而具有磁性，即所谓自发性的磁化现象
+"/assets/铁磁性.png"
+反铁磁性：磁体系中相邻的两个原子磁矩趋向于反向平行排列，相邻电子自旋呈相反方向排列，其磁化率因而接近于零
+"/assets/反铁磁性.png"
+顺磁性：有些材料可以受到外部磁场的影响，产生跟外部磁场同样方向的磁化矢量的特性。这样的物质具有正的磁化率。与顺磁性相反的现象被称为抗磁性。
+
+
+
+
+
+
+<script>
+window.tooltips = window.tooltips || []
+window.tooltips.push(['#someId', { content: "This is the text of the tooltip!" }])
+window.tooltips.push(['#someOtherId', { content: "{% include tooltips/example.html %}", placement: "right" }])
+</script>
