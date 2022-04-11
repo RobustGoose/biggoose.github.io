@@ -7,4 +7,4 @@ main_nav: true
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.jpg "Profile Picture"){:.profile}
 
-光学工程研一在读，人称339饮水机。
+江湖人称339饮水机。
