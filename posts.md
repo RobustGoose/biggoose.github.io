@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "记录"
+title: "博客"
 permalink: /posts/
 main_nav: true
 ---
