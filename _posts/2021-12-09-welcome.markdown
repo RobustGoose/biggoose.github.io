@@ -3,7 +3,7 @@ layout: post
 title:  "欢迎来看俺的博客"
 date:   2021-12-09 08:43:59
 author: yh.Shang
-categories: 测试
+categories: TEST
 tags:	welcome
 cover:  "/assets/instacode.jpg"
 ---
