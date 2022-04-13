@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "基础知识-铁磁性"
+title:  "铁磁性"
 date:   2022-4-10 08:43:59
 author: yh.Shang
-categories: 记录
+categories: 基础知识
 tags:	welcome
 cover:  "/assets/instacode.jpg"
 ---
