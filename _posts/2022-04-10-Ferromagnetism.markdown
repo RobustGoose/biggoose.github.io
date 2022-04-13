@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "基础知识-铁磁性"
-date:   2022-4-11 08:43:59
+date:   2022-4-10 08:43:59
 author: yh.Shang
 categories: 记录
 tags:	welcome
