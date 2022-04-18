@@ -4,7 +4,7 @@ title:  "铁磁性"
 date:   2022-4-10 08:43:59
 author: yh.Shang
 categories: 基础知识
-tags:	welcome
+tags:	physics
 cover:  "/assets/instacode.jpg"
 ---
 
